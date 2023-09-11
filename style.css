@@ -9,6 +9,8 @@ body {
     background-color: #f0f0f0;
 }
 img{
+    width: 500;
+    height:600;
     object-fit: contain;
 }
 
